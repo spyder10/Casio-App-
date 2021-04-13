@@ -1,4 +1,4 @@
 # Play-Casio
 
-![xylo](https://user-images.githubusercontent.com/60261673/114528192-6a5cdc80-9c66-11eb-8720-ca5c355f6e38.PNG)
+![xylo](https://user-images.githubusercontent.com/60261673/114528603-cb84b000-9c66-11eb-85a2-cbae464f24b5.png)
 
